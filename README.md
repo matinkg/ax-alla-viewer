@@ -1,4 +1,5 @@
-# ax-alaa-viewer
+# What is this project?
+As you know, [Alla](https://alaatv.com/) does'nt have a good video player for viewing lessons. So I decided to make a simple video player to view alaa lessons inside it. Hope you enjoy it :)
 
 ## Project setup
 ```
