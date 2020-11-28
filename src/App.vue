@@ -1,8 +1,8 @@
 <template>
 	<v-app>
 		<v-main class="blue lighten-5">
-			<v-container class="d-flex justify-center">
-				<v-col class="white rounded-lg elevation-3" cols="12" md="8">
+			<v-container>
+				<v-col class="white rounded-lg elevation-3 mx-auto" cols="12" md="8">
 					<div class="text-justify">
 						سلام! 👋 من به شما کمک میکنم فیلم های آلا رو با مدیا پلیر بهتری مشاهده کنین! 😎 لطفا لینک کلیپ رو بهم بده :
 					</div>
@@ -68,8 +68,8 @@ body,
 	padding-left: 95px !important;
 }
 
-.no-link{
-    text-decoration: none;
-    color: inherit;
+.no-link {
+	text-decoration: none;
+	color: inherit;
 }
 </style>
